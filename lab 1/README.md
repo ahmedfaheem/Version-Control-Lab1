@@ -63,7 +63,7 @@ or use the GitHub Pages link above.
 ## 👤 **Author**
 
 **Ahmed Faheem**
-ITI – Version Control Training
+ITI – Version Control Course
 2025
 
 ---
